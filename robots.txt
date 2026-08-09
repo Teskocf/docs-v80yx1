@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-2t8d9w.saturadar88.shop/sitemap.xml
